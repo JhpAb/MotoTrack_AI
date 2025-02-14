@@ -102,10 +102,3 @@ elif page == "Données et Graphiques":
     st.plotly_chart(fig7, use_container_width=True)
     st.plotly_chart(fig8, use_container_width=True)
 
-    # Affichage des réponses
-    if st.button("Soumettre"):
-        st.write(f"Nom: {user_name}")
-        st.write(f"Email: {email}")
-        st.write(f"Satisfaction: {rating}/5")
-        st.write(f"Commentaires: {feedback}")
-
