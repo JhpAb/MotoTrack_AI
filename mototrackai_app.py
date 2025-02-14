@@ -3,8 +3,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 from datetime import datetime
-from PIL import Image
-import imageio
+
 
 # Fonction pour générer des données simulées avec des horodatages à l'heure près pour chaque jour
 def generate_data():
@@ -36,12 +35,6 @@ page = st.sidebar.radio("Choisir une page", ["Résumé des KPI", "Données et Gr
 # Titre du tableau de bord
 st.title("MotoTrack AI - Propulsé par l'Innovation 🚀")
 st.markdown("Bienvenue sur le tableau de bord interactif **MotoTrack AI** ! Voici les **données** que nous avons analysées.")
-# Affichage d'une image (uniquement si nécessaire)
-st.subheader("Image Exemple")
-#image = Image.open("D:/chemin/vers/DALL·E 2025-02-14 13.22.19.jpg")  # Mettre ici le bon chemin vers votre image
-# Charger l'image .webp
-image = imageio.imread("D:/DALL.webp")
-st.image(image)
 
 
 if page == "Résumé des KPI":
