@@ -17,12 +17,6 @@ Tableau de bord dynamique : Génération de graphiques interactifs à partir de 
 Alertes en temps réel : Suivi des alertes en cours avec des visualisations graphiques.
 
 
-├── app.py                 # Fichier principal de l'application Streamlit
-├── requirements.txt       # Dépendances Python pour le projet
-├── README.md              # Ce fichier
-└── assets/                # Dossier pour les images et autres fichiers statiques
-    └── DALL.webp          # Image d'exemple (facultatif)
-
 Utilisation
 
 Une fois l'application lancée, vous pouvez naviguer à travers deux pages principales :
