@@ -1,5 +1,5 @@
 # MotoTrack_AI
-Voici un exemple de fichier README.md pour votre projet Streamlit. Ce fichier explique l'installation, l'utilisation et les fonctionnalités de votre tableau de bord.
+Ce fichier explique l'installation, l'utilisation et les fonctionnalités du tableau de bord.
 
 
 ---
