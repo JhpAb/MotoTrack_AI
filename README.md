@@ -74,12 +74,6 @@ Jean Pierre ABBE
 
 Reine-Esther LAGO
 
-
-Licence
-
-Distribué sous la licence MIT. Voir LICENSE pour plus d'informations.
-
-
 ---
 
 📝 À propos
