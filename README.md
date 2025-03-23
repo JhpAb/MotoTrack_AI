@@ -67,6 +67,7 @@ Si vous souhaitez contribuer à ce projet, voici quelques étapes pour vous y pr
 5. Ouvrez une pull request pour discuter des modifications.
 
 
+---
 
 Auteurs
 
@@ -79,9 +80,3 @@ Reine-Esther LAGO
 📝 À propos
 
 Ce projet vise à fournir un tableau de bord intelligent pour le suivi des performances des livraisons, intégrant l'IA pour une gestion optimale des opérations logistiques.
-
-
----
-
-N'hésitez pas à ajuster ou compléter ce README en fonction des spécificités de votre projet ! 🎉
-
