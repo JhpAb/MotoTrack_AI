@@ -95,3 +95,12 @@ elif page == "Données et Graphiques":
     st.plotly_chart(fig7, use_container_width=True)
     st.plotly_chart(fig8, use_container_width=True)
 
+# ========================
+# 👤 Pied de page - Auteurs
+# ========================
+st.sidebar.markdown("---")
+st.sidebar.markdown("📌 **Auteur : ABBE Jean Pierre, Data Analyst | CEM Engineer**")
+st.sidebar.markdown("📞 **Téléphone :** +225 0749499034")
+st.sidebar.markdown("📧 **Email :** abbejeanpierre0808@gmail.com")
+st.sidebar.info("👈 Sélectionnez une section pour explorer les données !")
+
