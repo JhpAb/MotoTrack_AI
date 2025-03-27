@@ -18,6 +18,7 @@ Alertes en temps réel : Suivi des alertes en cours avec des visualisations grap
 
 
 Utilisation
+--
 
 Une fois l'application lancée, vous pouvez naviguer à travers deux pages principales :
 
@@ -49,7 +50,7 @@ Nombre d'incidents et alertes en cours
 
 
 Contribuer
-
+--
 Si vous souhaitez contribuer à ce projet, voici quelques étapes pour vous y prendre :
 
 1. Forkez ce dépôt.
